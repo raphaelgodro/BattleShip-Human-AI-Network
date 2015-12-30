@@ -43,23 +43,23 @@ See:
 
 ### Bugs
 
-- We began with camelCase for local variables, but we switched at midway to the end of the project to lower_underscore. We had not the time to fix everything in the end. This project, as sad as it can be, was only worth a small 5% of the course. 
+- We began with camelCase for local variables, but we switched at midway to the end of the project to lower_underscore. We had not the time to fix everything in the end. This project, as sad as it can be, was only worth a small 5% of the course.
 - There is no special color for a sank boat on the player 1's self grid on the left side. However, its boats will appear "touched" as expected when hit, so this is not quite important as player 1 can see its boats.
 - Playing on network, if an opponent is not found within 3 seconds, the game freezes.
 
 
 ## Screenshots
 
-![Game Screenshot 1](https://github.com/guillaume-chevalier/BattleShip-Human-AI-Network/blob/master/screenshot_1.png "Game Screenshot 1")
+![Game Screenshot 1](https://github.com/raphaelgodro/BattleShip-Human-AI-Network/blob/master/screenshot_1.png "Game Screenshot 1")
 
-![Game Screenshot 2](https://github.com/guillaume-chevalier/BattleShip-Human-AI-Network/blob/master/screenshot_2.png "Game Screenshot 2")
+![Game Screenshot 2](https://github.com/raphaelgodro/BattleShip-Human-AI-Network/blob/master/screenshot_2.png "Game Screenshot 2")
 
-![Game Screenshot 3](https://github.com/guillaume-chevalier/BattleShip-Human-AI-Network/blob/master/screenshot_3.png "Game Screenshot 3")
+![Game Screenshot 3](https://github.com/raphaelgodro/BattleShip-Human-AI-Network/blob/master/screenshot_3.png "Game Screenshot 3")
 
-![Game Screenshot 4](https://github.com/guillaume-chevalier/BattleShip-Human-AI-Network/blob/master/screenshot_4.png "Game Screenshot 4")
+![Game Screenshot 4](https://github.com/raphaelgodro/BattleShip-Human-AI-Network/blob/master/screenshot_4.png "Game Screenshot 4")
 
-![Game Screenshot 5](https://github.com/guillaume-chevalier/BattleShip-Human-AI-Network/blob/master/screenshot_5.png "Game Screenshot 5")
+![Game Screenshot 5](https://github.com/raphaelgodro/BattleShip-Human-AI-Network/blob/master/screenshot_5.png "Game Screenshot 5")
 
-![Game Screenshot 6](https://github.com/guillaume-chevalier/BattleShip-Human-AI-Network/blob/master/screenshot_6.png "Game Screenshot 6")
+![Game Screenshot 6](https://github.com/raphaelgodro/BattleShip-Human-AI-Network/blob/master/screenshot_6.png "Game Screenshot 6")
 
-![Game Screenshot 7](https://github.com/guillaume-chevalier/BattleShip-Human-AI-Network/blob/master/screenshot_7.png "Game Screenshot 7")
+![Game Screenshot 7](https://github.com/raphaelgodro/BattleShip-Human-AI-Network/blob/master/screenshot_7.png "Game Screenshot 7")
