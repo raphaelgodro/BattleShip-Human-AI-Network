@@ -29,7 +29,7 @@ class Controller():
 
     def __initGame(self):
         """Wait until every player are done with
-        the boat placement.""""
+        the boat placement."""
         model = self.m
         p1 = self.p1
         p2 = self.p2
